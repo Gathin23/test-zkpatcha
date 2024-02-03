@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { VerifyHash } from './VerifyHash.js';
 
-export { Add };
+export { VerifyHash};
